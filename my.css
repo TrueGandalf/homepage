@@ -1,0 +1,13 @@
+.large.text {
+   font-size: 1.5rem;
+}
+
+.company{
+    width:70%;
+}
+.column1{
+    flex: 0 0 1px;
+}
+.column2{
+    flex: 1;
+}
